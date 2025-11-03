@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|c:\\users\\hp\\downloads\\c#\\mvc\\kashop\\kashop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6235B5B-7310-45A3-8EBA-065F29487A3C}|KASHOP\\KASHOP.csproj|solutionrelative:kashop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Models\\Category.cs",
+              "RelativeToolTip": "KASHOP\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:39:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Models\\Product.cs",
+              "RelativeToolTip": "KASHOP\\Models\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:13:48.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "KASHOP\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "KASHOP\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T11:45:20.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\ViewModels\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "KASHOP\\ViewModels\\ProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\ViewModels\\ProductsViewModel.cs",
+              "RelativeToolTip": "KASHOP\\ViewModels\\ProductsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:36:13.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KASHOP\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "KASHOP\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T06:35:24.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "KASHOP\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:57:38.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "KASHOP\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "KASHOP\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T14:52:55.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "KASHOP\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "KASHOP\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:40:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KASHOP\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "KASHOP\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T10:54:18.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KASHOP\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\c#\\mvc\\KASHOP\\KASHOP\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KASHOP\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAAADgBAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T10:42:30.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

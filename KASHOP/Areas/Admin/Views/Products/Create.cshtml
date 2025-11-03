@@ -1,0 +1,94 @@
+﻿@model Product
+
+@* <form method="post" action="/Admin/Products/Store" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="ProductName">Name</label>
+        <input type="text" name="name" value="@Model.Name" class="form-control"
+               id="ProductName" placeholder="Enter Product Name...">
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ProductDescription">Description</label>
+        <textarea type="text" name="Description" value="@Model.Description" class="form-control"
+                  id="ProductDescription" placeholder="Enter Product Description..."></textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ProductPrice">Price</label>
+        <input type="text" name="Price" value="@Model.Price" class="form-control"
+                  id="ProductPrice" placeholder="Enter Product Price...">
+        <span class="text-danger" asp-validation-for="Price"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ProductQuantity">Quantity</label>
+        <input type="text" name="Quantity" value="@Model.Quantity" class="form-control"
+                  id="ProductQuantity" placeholder="Enter Product Quantity...">
+        <span class="text-danger" asp-validation-for="Quantity"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ProductImage">Image</label>
+        <input type="file" name="file" class="form-control"
+               id="ProductImage">
+        <span class="text-danger" asp-validation-for="Image"></span>
+    </div>
+
+    <select class="form-control" name="categoryId">
+        @foreach (var item in ViewBag.Categories)
+        {
+            // send the Id
+            <option value="@item.Id">
+@item.Name
+            </option>
+        }
+       
+    </select>
+
+    <button type="submit" class="btn btn-outline-success mt-3">Create</button>
+</form> *@
+
+
+<form asp-action="Store" asp-controller="Products" asp-area="Admin" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" placeholder="Enter Product Name..." />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control" placeholder="Enter Product Description..."></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" placeholder="Enter Product Price..." />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Quantity" class="control-label"></label>
+        <input asp-for="Quantity" class="form-control" placeholder="Enter Product Quantity..." />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Image" class="control-label"></label>
+        <input asp-for="Image" type="file" name="file" class="form-control" />
+        <span asp-validation-for="Image" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CategoryId" class="control-label"></label>
+        <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(ViewBag.Categories, "Id", "Name"))">
+            <option value="">-- Select Category --</option>
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-outline-success mt-3">Create</button>
+</form>
